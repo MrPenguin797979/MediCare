@@ -1,0 +1,4 @@
+- Medical Project
+- Clone our project:
+- `git clone https://github.com/MrPenguin797979/MediCare.git`
+- Have a nice day!
